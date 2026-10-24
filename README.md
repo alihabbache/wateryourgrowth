@@ -10,13 +10,6 @@ Every episode is light, short and to the point, covering self-help, personal gro
 - **Real, lived ideas:** practical thoughts drawn from real experience.
 - **Direction, not noise:** focused guidance to help you grow.
 
-## Website
-
-- **Home:** featured episode and an introduction to the show.
-- **Episodes:** browse all episodes.
-- **About:** meet the host, ALi Habbache.
-- **Contact:** get in touch with the host.
-
 ## Security
 
 To report a vulnerability, see [SECURITY.md](SECURITY.md).
