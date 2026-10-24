@@ -507,4 +507,6 @@ a.c-card:hover { transform: translate(-4px, -4px); box-shadow: 10px 10px 0 var(-
 @media (prefers-reduced-motion: reduce) {
 	*, *::before, *::after { animation-duration: .001ms !important; animation-iteration-count: 1 !important; transition-duration: .001ms !important; scroll-behavior: auto !important; }
 	.js .reveal { opacity: 1; transform: none; }
+	/* Keep the banner scrolling (slow, horizontal-only) so it isn't frozen for reduced-motion desktop users */
+	.marquee-track { animation: marquee 60s linear infinite !important; }
 }
